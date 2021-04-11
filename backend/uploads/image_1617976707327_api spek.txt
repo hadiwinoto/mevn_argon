@@ -1,0 +1,12 @@
+API fitur
+
+session API 24 jam
+Method API Laravel Passport
+Bearer
+
+Dinggo
+CORS
+
+Origin API
+
+Messege API Try Catch
